@@ -1,12 +1,25 @@
 const venom = require('venom-bot');
-
+const readline = require('readline').createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
 
   venom
   .create({
     session: 'session-name', //name of session
     multidevice: true // for version not multidevice use false.(default: true)
   })
-  .then((client) => start(client))
+  .then((client) => {
+    start(client);
+    readline.question('\n', prefix => {
+      
+      if(prefix === 'exit'){
+        console.log('hola');
+        readline.close();
+      }
+      
+    });
+  })
   .catch((erro) => {
     console.log(erro);
   });
