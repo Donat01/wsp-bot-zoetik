@@ -1,6 +1,8 @@
 const venom = require('venom-bot');
 
-try {
+client.close().then((closed) => {
+
+  try {
  
     venom
     .create({
@@ -26,7 +28,7 @@ try {
       }
     });
   }
-  
+
   process.on('SIGINT', function() {
       client.close();
     });
@@ -34,3 +36,6 @@ try {
  } catch (error) {
     client.close();
  }
+
+});
+
