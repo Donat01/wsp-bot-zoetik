@@ -1,0 +1,23 @@
+{
+  "name": "wsp-bot-zoetik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Donat01/wsp-bot-zoetik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Donat01/wsp-bot-zoetik/issues"
+  },
+  "homepage": "https://github.com/Donat01/wsp-bot-zoetik#readme",
+  "dependencies": {
+    "venom-bot": "^4.3.0"
+  }
+}
