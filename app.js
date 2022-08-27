@@ -1,18 +1,15 @@
 const venom = require('venom-bot');
 
-client.close().then((closed) => {
 
-  try {
- 
-    venom
-    .create({
-      session: 'session-name', //name of session
-      multidevice: true // for version not multidevice use false.(default: true)
-    })
-    .then((client) => start(client))
-    .catch((erro) => {
-      console.log(erro);
-    });
+  venom
+  .create({
+    session: 'session-name', //name of session
+    multidevice: true // for version not multidevice use false.(default: true)
+  })
+  .then((client) => start(client))
+  .catch((erro) => {
+    console.log(erro);
+  });
   
   function start(client) {
     client.onMessage((message) => {
@@ -27,15 +24,9 @@ client.close().then((closed) => {
           });
       }
     });
-  }
 
-  process.on('SIGINT', function() {
+    process.on('SIGINT', function() {
       client.close();
     });
 
- } catch (error) {
-    client.close();
- }
-
-});
-
+  }

@@ -1,3 +1,2 @@
-2022/08/27-05:04:56.268 4184 Reusing MANIFEST C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/27-05:04:56.268 4184 Recovering log #3
-2022/08/27-05:04:56.273 4184 Reusing old log C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2022/08/27-05:24:07.040 268c Creating DB C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/08/27-05:24:07.052 268c Reusing MANIFEST C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
