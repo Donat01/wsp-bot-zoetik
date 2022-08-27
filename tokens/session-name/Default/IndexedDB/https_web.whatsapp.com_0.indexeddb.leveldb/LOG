@@ -1,3 +1,22 @@
-2022/08/27-05:04:56.268 4184 Reusing MANIFEST C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/27-05:04:56.268 4184 Recovering log #3
-2022/08/27-05:04:56.273 4184 Reusing old log C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2022/08/27-05:15:18.293 13f0 Reusing MANIFEST C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/27-05:15:18.294 13f0 Recovering log #3
+2022/08/27-05:15:18.301 13f0 Reusing old log C:\Users\ediso\OneDrive\Escritorio\wsp-web\wsp-bot-zoetik-1\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2022/08/27-05:15:36.757 3ff8 Level-0 table #5: started
+2022/08/27-05:15:36.788 3ff8 Level-0 table #5: 1155281 bytes OK
+2022/08/27-05:15:36.796 3ff8 Delete type=0 #3
+2022/08/27-05:15:39.267 3ff8 Level-0 table #7: started
+2022/08/27-05:15:39.296 3ff8 Level-0 table #7: 1229615 bytes OK
+2022/08/27-05:15:39.301 3ff8 Delete type=0 #4
+2022/08/27-05:15:39.310 13f0 Compacting 1@1 + 1@2 files
+2022/08/27-05:15:39.361 13f0 Generated table #8@1: 19690 keys, 1356333 bytes
+2022/08/27-05:15:39.361 13f0 Compacted 1@1 + 1@2 files => 1356333 bytes
+2022/08/27-05:15:39.366 13f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/27-05:15:40.342 42c4 Level-0 table #10: started
+2022/08/27-05:15:40.368 42c4 Level-0 table #10: 1062583 bytes OK
+2022/08/27-05:15:40.372 42c4 Delete type=2 #5
+2022/08/27-05:15:40.372 42c4 Delete type=0 #6
+2022/08/27-05:15:40.372 42c4 Delete type=2 #7
+2022/08/27-05:15:40.392 42c4 Compacting 1@1 + 1@2 files
+2022/08/27-05:15:40.444 42c4 Generated table #11@1: 24688 keys, 1878189 bytes
+2022/08/27-05:15:40.444 42c4 Compacted 1@1 + 1@2 files => 1878189 bytes
+2022/08/27-05:15:40.447 42c4 compacted to: files[ 0 0 1 0 0 0 0 ]
