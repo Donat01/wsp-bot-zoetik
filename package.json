@@ -1,7 +1,6 @@
 {
   "name": "wsp-bot-zoetik",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/Donat01/wsp-bot-zoetik#readme",
   "dependencies": {
     "venom-bot": "^4.3.0"
-  }
+  },
+  "description": ""
 }
